@@ -26,7 +26,6 @@ vendor_id INT NOT NULL,
 vendor_name VARCHAR(45) NOT NULL,
 description VARCHAR(45) NOT NULL,
 vendor_type VARCHAR(45) NOT NULL,
-product_type VARCHAR(45) NOT NULL,
 cost_per_set DECIMAL(10,2) NOT NULL,
 PRIMARY KEY (vendor_id)
 );
