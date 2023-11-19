@@ -14,6 +14,10 @@ reservation_venue RV
 
 reservation_vendor RVD
 
+payment_venue PV
+
+payment_vendor PVD
+
 TODO:
 Create a JSP file named view_venuetransaction.jsp
 Which displays all the values in venue_transaction table of sql
